@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sidranaeemsidi
+- 👋 Hi, I’m @sidranaeem
 - 👀 I’m interested in web development, UI/UX, SQA
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sidranaeem11114@gmail.com
 
 <!---
